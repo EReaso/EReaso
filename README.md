@@ -1,4 +1,4 @@
-## Hi there 👋
+In currently working on a flask app for recipe management and plan to learn fastapi. 
 
 <!--
 **EReaso/EReaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
