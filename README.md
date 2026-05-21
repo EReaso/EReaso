@@ -1,3 +1,5 @@
+I reason things. 
+
 I'm currently working on a flask app for recipe management and plan to learn fastapi. 
 
 <!--
